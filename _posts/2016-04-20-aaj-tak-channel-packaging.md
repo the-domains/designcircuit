@@ -30,8 +30,8 @@ app_links:
     name: Behance
 isBasedOnUrl: 'https://www.behance.net/gallery/9446107/Aaj-Tak-channel-packaging'
 title: ''
-datePublished: '2016-04-20T06:10:10.052Z'
-dateModified: '2016-04-20T06:06:59.462Z'
+datePublished: '2016-04-20T06:10:10.095Z'
+dateModified: '2016-04-20T06:07:20.498Z'
 sourcePath: _posts/2016-04-20-aaj-tak-channel-packaging.md
 published: true
 inFeed: true
