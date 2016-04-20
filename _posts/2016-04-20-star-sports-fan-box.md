@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://designcircuit.in/242959/6471543/work/star-sports-fan-box'
 title: 'Star Sports : Fan Box'
-datePublished: '2016-04-20T06:01:34.274Z'
-dateModified: '2016-04-20T06:00:58.871Z'
+datePublished: '2016-04-20T06:01:34.511Z'
+dateModified: '2016-04-20T06:01:01.634Z'
 sourcePath: _posts/2016-04-20-star-sports-fan-box.md
 published: true
 inFeed: true
