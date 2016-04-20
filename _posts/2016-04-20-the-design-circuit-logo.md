@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We're here! Let's see Design Circuit likes The Grid!"
-datePublished: '2016-04-20T05:48:06.808Z'
-dateModified: '2016-04-20T05:46:36.313Z'
-title: The Design Circuit logo
+datePublished: '2016-04-20T05:49:05.281Z'
+dateModified: '2016-04-20T05:48:52.758Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -24,6 +24,5 @@ url: the-design-circuit-logo/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7651e6d11b85b556ced018f1a7c2189789107c1e.jpg)
-
 We're here! Let's see Design Circuit likes The Grid!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/452a0fc7-f9a5-4781-9c1f-983338ff5f3e.jpg)
