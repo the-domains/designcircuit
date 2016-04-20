@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://designcircuit.in/242961/contact-us'
 title: Design Circuit Portfolio
-datePublished: '2016-04-20T06:10:10.080Z'
-dateModified: '2016-04-20T06:08:01.180Z'
+datePublished: '2016-04-20T06:10:10.070Z'
+dateModified: '2016-04-20T06:08:06.139Z'
 sourcePath: _posts/2016-04-20-design-circuit-portfolio.md
 published: true
 inFeed: true
