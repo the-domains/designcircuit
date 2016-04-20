@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "We're here! Let's see Design Circuit likes The Grid!"
-datePublished: '2016-04-20T05:46:28.568Z'
-dateModified: '2016-04-20T05:46:07.367Z'
+datePublished: '2016-04-20T05:48:06.808Z'
+dateModified: '2016-04-20T05:46:36.313Z'
 title: The Design Circuit logo
 author:
   - name: ''
