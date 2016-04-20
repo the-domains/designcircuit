@@ -5,25 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "We're here! Let's see how this goes."
-datePublished: '2016-04-20T05:43:50.794Z'
-dateModified: '2016-04-20T05:43:38.251Z'
+description: "We're here! Let's see Design Circuit likes The Grid!"
+datePublished: '2016-04-20T05:46:28.568Z'
+dateModified: '2016-04-20T05:46:07.367Z'
 title: The Design Circuit logo
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-04-20-the-design-circuit-logo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-the-design-circuit-logo.md
-published: true
 url: the-design-circuit-logo/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c32b63d9-3599-44b8-ad80-d37e6dd2a252.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7651e6d11b85b556ced018f1a7c2189789107c1e.jpg)
 
-We're here! Let's see how this goes.
+We're here! Let's see Design Circuit likes The Grid!
