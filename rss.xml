@@ -4,8 +4,14 @@
         <description><![CDATA[DesignCircuit]]></description>
         <link>https://thegrid.ai/designcircuit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 06:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 06:10:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designcircuit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aaj Tak channel packaging]]></title>
+            <link>https://www.behance.net/gallery/9446107/Aaj-Tak-channel-packaging</link>
+            <guid isPermaLink="false">8eccd714-f68b-4cd9-9271-3797fc8b62d6</guid>
+            <pubDate>Wed, 20 Apr 2016 06:10:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Design Circuit Portfolio]]></title>
             <description><![CDATA[<article><h1>Design Circuit Portfolio</h1><p>Design Circuit - where Art and Technology meet.</p></article>]]></description>
@@ -67,12 +73,6 @@
             <link>https://thegrid.ai/designcircuit/ab924866-b5f1-4201-8ba8-f50fb1e7b012/index.html</link>
             <guid isPermaLink="false">ab924866-b5f1-4201-8ba8-f50fb1e7b012</guid>
             <pubDate>Wed, 20 Apr 2016 05:56:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TV shop]]></title>
-            <link>https://www.behance.net/gallery/25470339/TV-shop</link>
-            <guid isPermaLink="false">3955c044-224a-42b4-bb32-45faf4892200</guid>
-            <pubDate>Wed, 20 Apr 2016 05:55:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
