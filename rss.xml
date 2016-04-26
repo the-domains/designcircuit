@@ -4,8 +4,22 @@
         <description><![CDATA[DesignCircuit]]></description>
         <link>https://thegrid.ai/designcircuit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 02:38:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 02:38:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designcircuit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/85df8a9446107.560cebffced78.jpg">]]></description>
+            <link>https://thegrid.ai/designcircuit/f4cfab33-67ff-4f6a-bd53-c939f0f911f8/index.html</link>
+            <guid isPermaLink="false">f4cfab33-67ff-4f6a-bd53-c939f0f911f8</guid>
+            <pubDate>Tue, 26 Apr 2016 02:36:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aaj Tak channel packaging]]></title>
+            <description><![CDATA[<article><h1>Aaj Tak channel packaging</h1><p>For the brand relaunch of Aaj Tak in 2013, we introduced more blues in the screen which in its contrast accentuated the red logo. The judiciously consistent use of beveled corners and the diagonal lines set the channel apart from its competitors.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/308c448e5d54f75742ef4ba45b7443c97b624741.jpg"></article>]]></description>
+            <link>http://designcircuit.in/242959/2780113/work/aaj-tak-channel-packaging</link>
+            <guid isPermaLink="false">31088c66-6118-4a76-add0-db1d04449e39</guid>
+            <pubDate>Tue, 26 Apr 2016 02:36:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/272c629446107.560cea7cbb273.jpg">]]></description>
@@ -61,19 +75,6 @@
             <link>https://vimeo.com/130665849</link>
             <guid isPermaLink="false">3589dbd2-48c0-4568-8a66-ee97ef01a0d0</guid>
             <pubDate>Wed, 20 Apr 2016 10:24:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/28a9277e-95ce-49c9-bf07-bd4cc6d572e3.jpg">]]></description>
-            <link>https://thegrid.ai/designcircuit/studio-design-for-news-30/index.html</link>
-            <guid isPermaLink="false">7ff37d80-c043-4de0-9209-77c40a1fcca5</guid>
-            <pubDate>Wed, 20 Apr 2016 06:14:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aaj Tak channel packaging]]></title>
-            <link>https://www.behance.net/gallery/9446107/Aaj-Tak-channel-packaging</link>
-            <guid isPermaLink="false">ba77e326-94e0-4ac5-8026-d8463d222379</guid>
-            <pubDate>Wed, 20 Apr 2016 06:10:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
