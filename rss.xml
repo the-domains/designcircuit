@@ -4,8 +4,15 @@
         <description><![CDATA[DesignCircuit]]></description>
         <link>https://thegrid.ai/designcircuit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 02:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 02:28:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designcircuit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/cdad567837563.560b874007fa1.jpg">]]></description>
+            <link>https://thegrid.ai/designcircuit/6a828edf-7b0a-4e5f-ada6-52ee737729ed/index.html</link>
+            <guid isPermaLink="false">6a828edf-7b0a-4e5f-ada6-52ee737729ed</guid>
+            <pubDate>Tue, 26 Apr 2016 02:27:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f27fc7837563.560b8717d76d0.jpg">]]></description>
@@ -65,13 +72,6 @@
             <link>http://designcircuit.in/268023/about-us</link>
             <guid isPermaLink="false">9d527b41-dd7f-4d33-81a8-38b8c6530e37</guid>
             <pubDate>Wed, 20 Apr 2016 06:05:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/600/108c3115756561.562b6c3aefcc3.jpg?h=8aa517b688c387c00930f16e147c31af">]]></description>
-            <link>https://thegrid.ai/designcircuit/eba227be-1b92-4b98-96d6-77ab0caee93b/index.html</link>
-            <guid isPermaLink="false">eba227be-1b92-4b98-96d6-77ab0caee93b</guid>
-            <pubDate>Wed, 20 Apr 2016 06:04:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
