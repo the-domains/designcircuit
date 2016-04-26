@@ -4,8 +4,15 @@
         <description><![CDATA[DesignCircuit]]></description>
         <link>https://thegrid.ai/designcircuit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 02:28:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 02:38:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designcircuit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6671af9446107.560cea15d7491.jpg">]]></description>
+            <link>https://thegrid.ai/designcircuit/4f8e4a1b-d44e-4a74-a7c3-531464df9def/index.html</link>
+            <guid isPermaLink="false">4f8e4a1b-d44e-4a74-a7c3-531464df9def</guid>
+            <pubDate>Tue, 26 Apr 2016 02:36:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://cdn.mir.no/articles/_resampled/ScaleWidthWyIyMDAwIl0/Powerhouse-in-the-Hague-Poster-b-credits-and-copyrights-by-MIR.jpg">]]></description>
@@ -65,13 +72,6 @@
             <title><![CDATA[Aaj Tak channel packaging]]></title>
             <link>https://www.behance.net/gallery/9446107/Aaj-Tak-channel-packaging</link>
             <guid isPermaLink="false">8eccd714-f68b-4cd9-9271-3797fc8b62d6</guid>
-            <pubDate>Wed, 20 Apr 2016 06:10:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design Circuit Portfolio]]></title>
-            <description><![CDATA[<article><h1>Design Circuit Portfolio</h1><p>Design Circuit - where Art and Technology meet.</p></article>]]></description>
-            <link>http://designcircuit.in/242961/contact-us</link>
-            <guid isPermaLink="false">901e0810-68db-4352-9d68-46fe4deb59bc</guid>
             <pubDate>Wed, 20 Apr 2016 06:10:10 GMT</pubDate>
         </item>
     </channel>
