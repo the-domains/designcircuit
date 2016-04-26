@@ -4,11 +4,18 @@
         <description><![CDATA[DesignCircuit]]></description>
         <link>https://thegrid.ai/designcircuit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 10:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 02:28:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/designcircuit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2f27fc7837563.560b8717d76d0.jpg">]]></description>
+            <link>https://thegrid.ai/designcircuit/5ccff768-f2a5-4d68-abe1-8219cc37f51b/index.html</link>
+            <guid isPermaLink="false">5ccff768-f2a5-4d68-abe1-8219cc37f51b</guid>
+            <pubDate>Tue, 26 Apr 2016 02:27:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DD Kisan proposal]]></title>
-            <description><![CDATA[<article><h1>DD Kisan proposal</h1><p>Design proposal for Doordarshan's channel for farmers. Music by Ranjan Sharma. Photographs used here are just examples and the copyright lies with the original owners.</p></article>]]></description>
+            <description><![CDATA[<article><h1>DD Kisan proposal</h1><p>Design proposal for Doordarshan's channel for farmers. Music by Ranjan Sharma. Photographs used here are just examples and the copyright lies with the original owners.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c15af33ac50ef5342449e979bb3aa63f32776d0.jpg"></article>]]></description>
             <link>https://vimeo.com/130665849</link>
             <guid isPermaLink="false">3589dbd2-48c0-4568-8a66-ee97ef01a0d0</guid>
             <pubDate>Wed, 20 Apr 2016 10:24:40 GMT</pubDate>
@@ -65,13 +72,6 @@
             <link>https://thegrid.ai/designcircuit/eba227be-1b92-4b98-96d6-77ab0caee93b/index.html</link>
             <guid isPermaLink="false">eba227be-1b92-4b98-96d6-77ab0caee93b</guid>
             <pubDate>Wed, 20 Apr 2016 06:04:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Star Sports : Fan Box]]></title>
-            <description><![CDATA[<article><h1>Star Sports : Fan Box</h1><p>Social Media studio for Star Sports</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f34a2a49fdb5cd7c9424d9d7cc15b73d4b7155ec.jpg"></article>]]></description>
-            <link>http://designcircuit.in/242959/6471543/work/star-sports-fan-box</link>
-            <guid isPermaLink="false">5ffc2989-7266-4747-b7eb-4733cc46fc0e</guid>
-            <pubDate>Wed, 20 Apr 2016 06:01:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
